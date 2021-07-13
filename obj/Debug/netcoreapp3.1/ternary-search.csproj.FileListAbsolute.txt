@@ -1,0 +1,13 @@
+E:\Project\C#\ternary-search\bin\Debug\netcoreapp3.1\ternary-search.exe
+E:\Project\C#\ternary-search\bin\Debug\netcoreapp3.1\ternary-search.deps.json
+E:\Project\C#\ternary-search\bin\Debug\netcoreapp3.1\ternary-search.runtimeconfig.json
+E:\Project\C#\ternary-search\bin\Debug\netcoreapp3.1\ternary-search.runtimeconfig.dev.json
+E:\Project\C#\ternary-search\bin\Debug\netcoreapp3.1\ternary-search.dll
+E:\Project\C#\ternary-search\bin\Debug\netcoreapp3.1\ternary-search.pdb
+E:\Project\C#\ternary-search\obj\Debug\netcoreapp3.1\ternary-search.csproj.AssemblyReference.cache
+E:\Project\C#\ternary-search\obj\Debug\netcoreapp3.1\ternary-search.AssemblyInfoInputs.cache
+E:\Project\C#\ternary-search\obj\Debug\netcoreapp3.1\ternary-search.AssemblyInfo.cs
+E:\Project\C#\ternary-search\obj\Debug\netcoreapp3.1\ternary-search.csproj.CoreCompileInputs.cache
+E:\Project\C#\ternary-search\obj\Debug\netcoreapp3.1\ternary-search.dll
+E:\Project\C#\ternary-search\obj\Debug\netcoreapp3.1\ternary-search.pdb
+E:\Project\C#\ternary-search\obj\Debug\netcoreapp3.1\ternary-search.genruntimeconfig.cache
